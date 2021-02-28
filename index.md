@@ -1,4 +1,4 @@
-## The Bot 
+## RPG Diceroller 
 
 RPG Diceroller is a Discord bot that simulate dice rolls for your [RPG](https://en.wikipedia.org/wiki/Role-playing_game) session at discord. 
 

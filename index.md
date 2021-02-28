@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# RPG Diceroller 
 
-You can use the [editor on GitHub](https://github.com/AlmirPaulo/Diceroller_discord/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+RPG Diceroller is a Discord bot that simulate dice rolls for your [RPG](https://en.wikipedia.org/wiki/Role-playing_game) session at discord. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Get RPG [Diceroller](https://discord.com/api/oauth2/authorize?client_id=815302867933724722&permissions=11264&scope=bot) to your server now and have fun playing online RPG with your friends!  
 
-### Markdown
+## How to roll dices?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Just use the ordinary abreviations of dice rolls from the traditional RPG systems after a "!". Like this "!2d6" (without the quotes) to roll 2 six-sided dices, for example. The bot is able to roll until 9 dices each time. And the available dices are: d3, d4, d6, d8, d10, d12, d20 and d%. What are pretty much all the common dices in RPG games. 
 
-```markdown
-Syntax highlighted code block
+Important to say, if you want to roll a single dice, you still need to add the number of dices in the command. Like this "!1d20". Otherwise the bot will not understand you. You know... machines...
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlmirPaulo/Diceroller_discord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

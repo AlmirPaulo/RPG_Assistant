@@ -22,34 +22,47 @@ async def on_message(message):
 # Diceroller
     if message.content[0] == '!':
         dices = message.content[1]
+        results = []
         while int(dices) > 0: 
 
             if message.content[2:5] == 'd3':
-                await message.channel.send(f"Your d3 rolled a {random.randint(1,3)}")
+                results.append(random.randint(1,3))
 
             elif message.content[2:5] == 'd4':
-                await message.channel.send(f"Your d4 rolled a {random.randint(1,4)}")
+                results.append(random.randint(1,4))
         
             elif message.content[2:5] == 'd6':
-                await message.channel.send(f"Your d6 rolled a {random.randint(1,6)}")
-
+                results.append(random.randint(1,6))
             elif message.content[2:5] == 'd8':
-                await message.channel.send(f"Your d8 rolled a {random.randint(1,8)}")
+                results.append(random.randint(1,8))
 
             elif message.content[2:5]== 'd%':
-                await message.channel.send(f"Your d% rolled a {random.randint(1,100)}%")
+                results.append(random.randint(1,100))
             
             elif message.content[2:5] == 'd10':
-                await message.channel.send(f"Your d10 rolled a {random.randint(1,10)}")
+                results.append(random.randint(1,10))
 
             elif message.content[2:5] == 'd12':
-                await message.channel.send(f"Your d12 rolled a {random.randint(1,12)}")
+                results.append(random.randint(1,12))
 
             elif message.content[2:5] == 'd20':
-                await message.channel.send(f"Your d20 rolled a {random.randint(1,20)}")
+                results.append(random.randint(1,20))
 
             
             dices = int(dices) -1
+        
+        roll = []
+        for i in results:
+            roll.append(str(i))
+            
+        if message.content[2:5]== 'd%':
+            out = f"you rolled: {'%, '.join(roll)}%."
+        else:
+            out = f"you rolled: {', '.join(roll)}."
+        await message.channel.send(out)
+        
+
+
 
 # Run bot
 client.run(token.strip())

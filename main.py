@@ -19,6 +19,10 @@ async def on_message(message):
     if message.author == client.user:
         return
 
+     # Help message
+     if message.content.startswith('!help'): 
+      await message.channel.send('Take a look here: https://almirpaulo.github.io/Diceroller_discord/')
+
 # Diceroller
     if message.content[0] == '!':
         dices = message.content[1]

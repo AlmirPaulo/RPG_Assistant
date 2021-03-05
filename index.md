@@ -25,7 +25,7 @@ If you are new to RPGs maybe you need a little more than this poor explanation. 
 
 ## Support
 
-If you are experiencing any problem, bug or have any question. Please visit our [Support Channel](https://discord.gg/4sutReEVE8) on Discord. We do not have a I  F.A.Q. page yet, but I will work on that. 
+If you are experiencing any problem, bug or have any question. Please visit our [Support Channel](https://discord.gg/4sutReEVE8) on Discord. We do not have a  F.A.Q. page yet, but I will work on that. 
 
 ## Premium Version
 

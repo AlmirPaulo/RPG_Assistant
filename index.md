@@ -1,10 +1,12 @@
-## RPG Diceroller 
+## RPG Assistant
 
 <img src='https://raw.githubusercontent.com/AlmirPaulo/Diceroller_discord/main/Icosaedro.jpg' alt='logo'>
 
-RPG Diceroller is a Discord bot that simulate dice rolls for your [RPG](https://en.wikipedia.org/wiki/Role-playing_game) session at discord. 
+RPG Assistant is a Discord designed to help Game Masters and RPG players in their RPG session at discord. 
 
 Get [RPG Diceroller](https://discord.com/api/oauth2/authorize?client_id=815302867933724722&permissions=11264&scope=bot) to your server now and have fun playing online RPG with your friends!  
+
+<button>click</button>
 
 ## How to roll dices?
 

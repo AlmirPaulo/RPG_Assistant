@@ -1,2 +1,2 @@
 # Diceroller_Assistant
-The assistant ever GM have dream about! 
+The assistant any GM have dreamed about! 

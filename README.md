@@ -1,2 +1,2 @@
-# Diceroller_discord
-A Discord bot that simulate RPG dice rolls. 
+# Diceroller_Assistant
+The assistant ever GM have dream about! 

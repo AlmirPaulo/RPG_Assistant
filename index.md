@@ -8,7 +8,7 @@ Get [RPG Assistant](https://discord.com/api/oauth2/authorize?client_id=815302867
 
 <a href='https://discord.com/api/oauth2/authorize?client_id=815302867933724722&permissions=11264&scope=bot'><button>Invite Now!</button></a>
 
-## How to roll dices?
+## How to roll dices? (The Commands)
 
 Just use the ordinary abreviations of dice rolls from the traditional RPG systems after a "!". Like this "!2d6" (without the quotes) to roll 2 six-sided dices, for example. The bot is able to roll until 9 dices at once. And the available dices are: d3, d4, d6, d8, d10, d12, d20 and d%. What are pretty much all the common dices in RPG games. 
 

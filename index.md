@@ -1,6 +1,6 @@
-## RPG Assistant
+## The Bot
 
-<img src='https://raw.githubusercontent.com/AlmirPaulo/Diceroller_discord/main/Icosaedro.jpg' alt='logo'>
+<img src='https://raw.githubusercontent.com/AlmirPaulo/Diceroller_discord/main/Icosaedro.jpg' alt='logo' style="border-radius:50%; width:20%">
 
 RPG Assistant is a Discord bot designed to help Game Masters and RPG players in their RPG session at discord. 
 

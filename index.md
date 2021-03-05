@@ -1,4 +1,4 @@
-## The Bot
+## RPG Assistant
 
 <img src='https://raw.githubusercontent.com/AlmirPaulo/Diceroller_discord/main/Icosaedro.jpg' alt='logo' style="border-radius:50%; width:20%">
 

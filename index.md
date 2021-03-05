@@ -6,7 +6,7 @@ RPG Assistant is a Discord bot designed to help Game Masters and RPG players in 
 
 Get [RPG Assistant](https://discord.com/api/oauth2/authorize?client_id=815302867933724722&permissions=11264&scope=bot) to your server now and have fun playing online RPG with your friends!  
 
-<input type='button'><a href='https://discord.com/api/oauth2/authorize?client_id=815302867933724722&permissions=11264&scope=bot'>Invite Now!</a></input>
+<a href='https://discord.com/api/oauth2/authorize?client_id=815302867933724722&permissions=11264&scope=bot'><button style="padding:2%; background: red; color: white; font-weight: bold; border-redius: 2%;">Invite Now!</button></a>
 
 ## How to roll dices? (The Commands)
 

@@ -1,5 +1,7 @@
 from flask import Flask
 from threading import Thread
+import requests as req 
+
 
 app = Flask('')
 
